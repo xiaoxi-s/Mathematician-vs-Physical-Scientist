@@ -1,0 +1,1 @@
+scrapy crawl "wiki-sci-bio-spider" -a urls_file=phy_sci_urls.txt -a debug=False
